@@ -11,5 +11,8 @@
     "url": "AllGym-Web-App"
   },
   "author": "Samuel McCarthy",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.5.3"
+  }
 }
